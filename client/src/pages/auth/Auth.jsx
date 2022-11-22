@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Auth.css'
+import './Auth.css';
 import icon from '../../assets/stackoverflow-logo.png';
 import AboutAuth from './AboutAuth';
 
