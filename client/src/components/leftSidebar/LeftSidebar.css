@@ -1,6 +1,6 @@
 .left-sidebar{
     width: 164px;
-    box-shadow: 1px 1px 0 rgb(0,0,0, 0.2);
+    box-shadow: 1px 1px 0 rgba(0,0,0, 0.2);
     transition: box-shadow ease-in-out 0.1s, transform ease-in-out 0.1s;
     transform: translateZ(0);
     box-sizing: border-box;
@@ -23,7 +23,7 @@
     padding-left: 10px;
 }
 
-.side-nav-links{
+.side-nav-links {
     text-decoration: none;
     color: #3a3a3a;
     display: flex;
